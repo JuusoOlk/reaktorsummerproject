@@ -9,6 +9,12 @@
   "author": "Juuso Olkkonen",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "koa": "^2.7.0",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.5.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
   }
 }
