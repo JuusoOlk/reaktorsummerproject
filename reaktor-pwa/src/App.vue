@@ -32,7 +32,7 @@ export default {
   async created() {
     const jsonArray = await axios
       .get(
-        "https://cors-anywhere.herokuapp.com/http://snowcoding.com/reaktor/emission.csv"
+        ""
       )
       .then(result => result.data);
     console.log(jsonArray);
