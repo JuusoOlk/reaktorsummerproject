@@ -9,7 +9,7 @@
   "author": "Juuso Olkkonen",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^4.4.1",
+    "csv-parse": "^4.4.6",
     "csvjson": "^5.1.0",
     "koa": "^2.7.0",
     "koa-mount": "^4.0.0",
